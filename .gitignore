@@ -120,3 +120,6 @@ venv.bak/
 
 # pycharm
 .idea
+
+# googledocs
+client_secret.json
