@@ -1,6 +1,6 @@
 appnope==0.1.0
 attrs==17.3.0
-bleach==2.1.2
+bleach==3.1.4
 decorator==4.1.2
 entrypoints==0.2.3
 html5lib==1.0.1
